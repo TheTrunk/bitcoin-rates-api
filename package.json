@@ -1,7 +1,7 @@
 {
-  "name": "litecoin-rates",
+  "name": "bitcoin-rates",
   "version": "1.0.0",
-  "description": "Service that supplies LTC rate conversion to other curriences",
+  "description": "Service that supplies BTC rate conversion to other curriences",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js",
